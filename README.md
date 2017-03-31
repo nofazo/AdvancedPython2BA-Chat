@@ -11,12 +11,12 @@ Il peut interroger le serveur pour obtenir la liste des clients disponibles.</li
 <li>Ayant l'adresse IP d'une autre machine, une machine peut lancer un chat avec une autre en mode peer-to-peer, tout cela indépendament du server.</li>
 </ol>
 Lancement du programme:
-<ol> 
-<ul>Ouvrir l'invite de commande et exécuter le fichier 'ServerClient-.py'</ul>
-<ul>Ouvrir une autre invite de commande et exécuter le fichier 'ClientClient'</ul>
-<ul>Se joindre au server en tapant la commande suivante: /join 'adresse IP du Server' 'port du server'</ul>
-<ul>Entrer son pseudo.</ul>
-</ol>
+<ul> 
+<li>Ouvrir l'invite de commande et exécuter le fichier 'ServerClient-.py'</li>
+<li>Ouvrir une autre invite de commande et exécuter le fichier 'ClientClient'</li>
+<li>Se joindre au server en tapant la commande suivante: /join 'adresse IP du Server' 'port du server'</li>
+<li>Entrer son pseudo.</li>
+</ul>
 Vous êtes connecté au server et celui-ci a enregistrer votre pseudo !
 Taper :
 '/send /help' pour connaitre toutes les commandes possibles à exécuter
