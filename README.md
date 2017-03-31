@@ -1,5 +1,5 @@
 # AdvancedPython2BA-Chat
-## Auteurs: Hannouni Houda( & Nouhi Fatima(16354)
+## Auteurs: Hannouni Houda( & Nouhi Fatima(16354) --> Binôme 10
 
 Notre petite application Chat permet de discuter via l'invite de commandes.
 Elle comporte une partie en mode Client/Server et une partie en mode peer-to-peer.
